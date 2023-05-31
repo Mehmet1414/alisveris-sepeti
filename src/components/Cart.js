@@ -25,7 +25,7 @@ const Cart = (props) => {
             <p>Yazar:{book.author} </p>
             <p>Fiyat: &#8378;{book.price}</p>
             <button>-</button>
-            <button>Adet: 0</button>
+            <button>Adet: 1</button>
             <button>+</button>
           </div>
         </div>
