@@ -21,7 +21,7 @@ const data = [
       author: "Zana Muhsen",
       price: 16.99,
       image:
-        "https://content.babil.com/urun/13df0fdbdfbe477d8c8ee30d2e15292c/Front/Big"
+        "https://img.kitapyurdu.com/v1/getImage/fn:11312021/wh:true/miw:200/mih:200"
     },
     {
       id: 4,
